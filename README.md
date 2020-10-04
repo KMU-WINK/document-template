@@ -26,7 +26,7 @@ description
 http://leeky.me/
 ```
 
-## 팀명 : Do Mo!(Do Monitoring!)
+## 팀명 : 
 ## 팀원 소개
 
 <img align="left" width="165" height="165" src="https://wink.kookmin.ac.kr/static/images/upload/ACF13837-13AE-4D45-878D-232B94553B24_1_105_c_lgyEbPJ.jpeg"></img>
